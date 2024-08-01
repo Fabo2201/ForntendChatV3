@@ -1,0 +1,117 @@
+[
+    { 
+      "id": 1, 
+      "nombre": "Empresa A", 
+      "descripcion": "Descripción de la Empresa A", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    { 
+      "id": 2, 
+      "nombre": "Empresa B", 
+      "descripcion": "Descripción de la Empresa B", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Empresa C", 
+      "descripcion": "Descripción de la Empresa C", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Empresa D", 
+      "descripcion": "Descripción de la Empresa D", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+
+    { 
+      "id": 1, 
+      "nombre": "Empresa A", 
+      "descripcion": "Descripción de la Empresa A", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    { 
+      "id": 2, 
+      "nombre": "Empresa B", 
+      "descripcion": "Descripción de la Empresa B", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Empresa C", 
+      "descripcion": "Descripción de la Empresa C", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Empresa D", 
+      "descripcion": "Descripción de la Empresa D", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+
+    { 
+      "id": 1, 
+      "nombre": "Empresa A", 
+      "descripcion": "Descripción de la Empresa A", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    { 
+      "id": 2, 
+      "nombre": "Empresa B", 
+      "descripcion": "Descripción de la Empresa B", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Empresa C", 
+      "descripcion": "Descripción de la Empresa C", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Empresa D", 
+      "descripcion": "Descripción de la Empresa D", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+
+    { 
+      "id": 1, 
+      "nombre": "Empresa A", 
+      "descripcion": "Descripción de la Empresa A", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/women/85.jpg"
+    },
+    { 
+      "id": 2, 
+      "nombre": "Empresa B", 
+      "descripcion": "Descripción de la Empresa B", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    { 
+      "id": 3, 
+      "nombre": "Empresa C", 
+      "descripcion": "Descripción de la Empresa C", 
+      "verificado": true,
+      "imagen": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    { 
+      "id": 4, 
+      "nombre": "Empresa D", 
+      "descripcion": "Descripción de la Empresa D", 
+      "verificado": false,
+      "imagen": "https://randomuser.me/api/portraits/women/42.jpg"
+    }
+  ]
